@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Movies xmlns="">
+  <Movie Type="Comedy">
+    <Title>The Hangover</Title>
+    <Tagline>Some guys just can't handle Vegas.</Tagline>
+  </Movie>
+  <Movie Type="Comedy">
+    <Title>Forgetting Sarah Marshall</Title>
+    <Tagline>From the guys who brought you "The 40-Year-Old Virgin" and "Knocked Up".</Tagline>
+  </Movie>
+  <Movie Type="Action">
+    <Title>The Matrix</Title>
+    <Tagline>Free your mind.</Tagline>
+  </Movie>
+  <Movie Type="Thriller">
+    <Title>Shutter Island</Title>
+    <Tagline>Someone is missing.</Tagline>
+  </Movie>
+</Movies>

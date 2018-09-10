@@ -1,0 +1,42 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Vb", "Vb\Vb.vbproj", "{F8BA2369-0F06-42D8-825F-EAADFF145072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello", "Hello\Hello.csproj", "{C474A47E-C6F6-40A3-845E-C2E6C9CC963A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8BA2369-0F06-42D8-825F-EAADFF145072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8BA2369-0F06-42D8-825F-EAADFF145072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8BA2369-0F06-42D8-825F-EAADFF145072}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F8BA2369-0F06-42D8-825F-EAADFF145072}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F8BA2369-0F06-42D8-825F-EAADFF145072}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{F8BA2369-0F06-42D8-825F-EAADFF145072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8BA2369-0F06-42D8-825F-EAADFF145072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8BA2369-0F06-42D8-825F-EAADFF145072}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F8BA2369-0F06-42D8-825F-EAADFF145072}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F8BA2369-0F06-42D8-825F-EAADFF145072}.Release|Win32.ActiveCfg = Release|Any CPU
+		{C474A47E-C6F6-40A3-845E-C2E6C9CC963A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C474A47E-C6F6-40A3-845E-C2E6C9CC963A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C474A47E-C6F6-40A3-845E-C2E6C9CC963A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{C474A47E-C6F6-40A3-845E-C2E6C9CC963A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{C474A47E-C6F6-40A3-845E-C2E6C9CC963A}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{C474A47E-C6F6-40A3-845E-C2E6C9CC963A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C474A47E-C6F6-40A3-845E-C2E6C9CC963A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C474A47E-C6F6-40A3-845E-C2E6C9CC963A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{C474A47E-C6F6-40A3-845E-C2E6C9CC963A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{C474A47E-C6F6-40A3-845E-C2E6C9CC963A}.Release|Win32.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardTest", "CardTest\CardTest.csproj", "{4241B5E6-E6C1-4C9C-B044-3DC7A622D2CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4241B5E6-E6C1-4C9C-B044-3DC7A622D2CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4241B5E6-E6C1-4C9C-B044-3DC7A622D2CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4241B5E6-E6C1-4C9C-B044-3DC7A622D2CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4241B5E6-E6C1-4C9C-B044-3DC7A622D2CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
