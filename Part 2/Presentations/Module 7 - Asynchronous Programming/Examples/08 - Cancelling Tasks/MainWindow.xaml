@@ -1,0 +1,16 @@
+﻿<Window x:Class="Wincubate.Module07.Slide08.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <Button x:Name="btnGo"
+                Click="OnGoClick"
+                Margin="10">Go!</Button>
+        <Button x:Name="btnCancel"
+                Click="OnCancelClick"
+                Margin="10">Cancel</Button>
+        <Button x:Name="btnStatus"
+                Click="OnStatusClick"
+                Margin="10">Read Task Status</Button>
+    </StackPanel>
+</Window>

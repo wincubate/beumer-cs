@@ -1,0 +1,44 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 - Dynamic Keyword", "06 - Dynamic Keyword\06 - Dynamic Keyword.csproj", "{50C463D2-526D-413B-BB5F-A7BCD662E610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08 - IronPython", "08 - IronPython\08 - IronPython.csproj", "{DAB00B2B-19DD-4B5B-AC3D-368542425B12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - DynamicObject", "10 - DynamicObject\10 - DynamicObject.csproj", "{1D57D874-97F2-432A-8419-955F7595BDA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 - ExpandoObject", "11 - ExpandoObject\11 - ExpandoObject.csproj", "{0646AF16-FC81-49AE-87C2-772C5449B6F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12 - Quiz", "12 - Quiz\12 - Quiz.csproj", "{565FA704-D2E3-432B-AB3D-725441DCF2B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50C463D2-526D-413B-BB5F-A7BCD662E610}.Debug|x86.ActiveCfg = Debug|x86
+		{50C463D2-526D-413B-BB5F-A7BCD662E610}.Debug|x86.Build.0 = Debug|x86
+		{50C463D2-526D-413B-BB5F-A7BCD662E610}.Release|x86.ActiveCfg = Release|x86
+		{50C463D2-526D-413B-BB5F-A7BCD662E610}.Release|x86.Build.0 = Release|x86
+		{1D57D874-97F2-432A-8419-955F7595BDA6}.Debug|x86.ActiveCfg = Debug|x86
+		{1D57D874-97F2-432A-8419-955F7595BDA6}.Debug|x86.Build.0 = Debug|x86
+		{1D57D874-97F2-432A-8419-955F7595BDA6}.Release|x86.ActiveCfg = Release|x86
+		{1D57D874-97F2-432A-8419-955F7595BDA6}.Release|x86.Build.0 = Release|x86
+		{0646AF16-FC81-49AE-87C2-772C5449B6F1}.Debug|x86.ActiveCfg = Debug|x86
+		{0646AF16-FC81-49AE-87C2-772C5449B6F1}.Debug|x86.Build.0 = Debug|x86
+		{0646AF16-FC81-49AE-87C2-772C5449B6F1}.Release|x86.ActiveCfg = Release|x86
+		{0646AF16-FC81-49AE-87C2-772C5449B6F1}.Release|x86.Build.0 = Release|x86
+		{DAB00B2B-19DD-4B5B-AC3D-368542425B12}.Debug|x86.ActiveCfg = Debug|x86
+		{DAB00B2B-19DD-4B5B-AC3D-368542425B12}.Debug|x86.Build.0 = Debug|x86
+		{DAB00B2B-19DD-4B5B-AC3D-368542425B12}.Release|x86.ActiveCfg = Release|x86
+		{DAB00B2B-19DD-4B5B-AC3D-368542425B12}.Release|x86.Build.0 = Release|x86
+		{565FA704-D2E3-432B-AB3D-725441DCF2B9}.Debug|x86.ActiveCfg = Debug|x86
+		{565FA704-D2E3-432B-AB3D-725441DCF2B9}.Debug|x86.Build.0 = Debug|x86
+		{565FA704-D2E3-432B-AB3D-725441DCF2B9}.Release|x86.ActiveCfg = Release|x86
+		{565FA704-D2E3-432B-AB3D-725441DCF2B9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

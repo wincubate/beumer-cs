@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>Wincubate.CS7x.Slide08</AssemblyName>
+    <RootNamespace>Wincubate.CS7x.Slide08</RootNamespace>
+  </PropertyGroup>
+
+</Project>

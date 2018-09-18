@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Wincubate.CS7.DiscographyLib</AssemblyName>
+    <RootNamespace>Wincubate.CS7.DiscographyLib</RootNamespace>
+  </PropertyGroup>
+
+</Project>
