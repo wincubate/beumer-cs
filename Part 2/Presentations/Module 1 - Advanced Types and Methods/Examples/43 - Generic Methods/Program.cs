@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace Wincubate.Module01.Slide43
 {
@@ -16,7 +13,7 @@ namespace Wincubate.Module01.Slide43
 
             string s = "Hello";
             string t = "World";
-            Swap( ref s, ref j );
+            Swap( ref s, ref t );
             Console.WriteLine( "s = \"{0}\". t = \"{1}\"", s, t );
         }
 
